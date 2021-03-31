@@ -180,7 +180,8 @@ There's also a list of WebTorrent-powered alternatives to centralized services h
 [p2p-media-loader]: https://github.com/novage/p2p-media-loader
 [hubzilla]: https://hubzilla.org
 [hubzilla-source]: https://github.com/demitas-ace/wtplayer/tree/master/wtplayer
-[comeover]: https://www.comeover.io
+[comeover]: https://luccadoret.github.io/comeover/home
+[comeover-source]: https://github.com/LucCADORET/comeover
 [peerwebsite]: https://peerweb.site
 [cipher-torrent]: https://torrent.cipherdogs.net
 [cipher-torrent-source]: https://github.com/CipherDogs/cipher-torrent
